@@ -1,0 +1,9 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://images3.alphacoders.com/205/205895.jpg");
+}
+.center {
+  display: flex;
+  justify-content: space-around;
+}
